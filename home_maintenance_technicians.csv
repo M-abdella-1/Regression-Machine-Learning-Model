@@ -1,0 +1,251 @@
+﻿technician_id,technician_name,service_type,city,experience_years,rating,number_of_reviews,base_price_EGP,availability_status,completed_jobs
+TECH-2824,Mohamed Ali,Appliance Repair,Tanta,8,3.5,90,210,Available,357
+TECH-9935,Youssef Nasser,Painting,Luxor,2,3.3,21,450,Busy,62
+TECH-9279,Ashraf Nasr,Plumbing,Ismailia,7,3.8,110,620,Available,195
+TECH-7873,Ramy Tawfik,Carpentry,Port Said,9,3.6,87,1020,Busy,252
+TECH-3615,Alaa El-Sayed,Carpentry,Aswan,9,3.5,21,400,Available,82
+TECH-6514,Amr Fathy,Plumbing,Luxor,4,2.7,27,380,Available,158
+TECH-5333,Mahmoud Ibrahim,Appliance Repair,Zagazig,18,3.9,88,160,Available,1000
+TECH-2291,Karim Donia,Air Conditioning,Asyut,20,4.4,246,1360,Available,272
+TECH-4150,Ibrahim Yehia,Plumbing,Cairo,8,3.1,100,650,Available,141
+TECH-4814,Amr Fathy,Carpentry,Tanta,15,4.2,134,850,Available,459
+TECH-7065,George Naguib,Electrical,Suez,9,3.2,191,760,Available,313
+TECH-2169,Ashraf Nasr,Appliance Repair,Alexandria,18,3.9,290,460,Busy,300
+TECH-7216,Ayman Lotfy,Appliance Repair,Faiyum,18,4.4,39,210,Available,271
+TECH-1916,Ramy Tawfik,Plumbing,Minya,11,3.7,172,410,Busy,413
+TECH-6155,Wael Hamdy,Appliance Repair,Zagazig,13,3.8,136,540,Available,166
+TECH-3340,Hany Soliman,Electrical,Mansoura,18,4,174,630,Available,915
+TECH-8019,Hazem Baraka,Carpentry,Aswan,8,3.4,25,1200,Busy,318
+TECH-9085,Youssef Nasser,Plumbing,Asyut,4,2.7,34,250,Busy,176
+TECH-7916,Ashraf Nasr,Plumbing,Luxor,13,4.2,216,540,Available,291
+TECH-5119,Karim Donia,Plumbing,Suez,4,2.8,54,590,Available,198
+TECH-5371,Fathi El-Sharif,Appliance Repair,Aswan,4,2.7,44,250,Busy,73
+TECH-1053,Hesham El-Masry,Appliance Repair,Tanta,17,3.7,273,480,Available,940
+TECH-2743,Salah El-Hadad,Air Conditioning,Asyut,17,4.2,289,1030,Busy,687
+TECH-3646,Anwar Elias,Painting,Sohag,1,2.3,13,1360,Available,58
+TECH-2832,Samy Wahba,Air Conditioning,Mansoura,2,2.7,39,590,Available,0
+TECH-2290,Youssef Nasser,Appliance Repair,Zagazig,3,3.1,37,590,Available,91
+TECH-3060,Hossam El-Din,Appliance Repair,Zagazig,18,4.3,37,180,Available,570
+TECH-7932,Wael Hamdy,Painting,Minya,7,3.3,135,1540,Available,190
+TECH-7118,Nabil Shawky,Painting,Zagazig,4,2.6,37,800,Busy,194
+TECH-1344,Hazem Baraka,Painting,Mansoura,19,4.5,177,750,Busy,811
+TECH-1964,Ramy Tawfik,Plumbing,Sohag,2,2.7,33,710,Busy,48
+TECH-4899,Ayman Lotfy,Appliance Repair,Zagazig,7,3.1,70,370,Available,91
+TECH-8744,Bassem Fouad,Carpentry,Minya,14,4,186,430,Busy,491
+TECH-8062,George Naguib,Carpentry,Luxor,15,3.9,73,1070,Busy,430
+TECH-2612,Omar Khalil,Carpentry,Faiyum,11,3.5,87,1010,Busy,358
+TECH-4139,Nader Sayed,Painting,Zagazig,5,3.2,107,1080,Busy,188
+TECH-5092,Khaled Samir,Carpentry,Minya,18,4.4,209,340,Available,111
+TECH-9856,Ahmed Hassan,Plumbing,Sohag,8,3.3,98,260,Available,575
+TECH-4502,Adel Mansour,Plumbing,Alexandria,13,3.7,175,150,Available,448
+TECH-8454,Emad Ragab,Carpentry,Faiyum,18,3.8,318,880,Available,833
+TECH-4111,Emad Ragab,Electrical,Cairo,19,4.7,141,790,Busy,1000
+TECH-6138,Omar Khalil,Plumbing,Port Said,16,3.5,238,480,Available,1000
+TECH-3579,Omar Khalil,Painting,Giza,6,2.7,55,510,Busy,218
+TECH-4853,Adel Mansour,Plumbing,Sohag,19,4.2,80,310,Available,684
+TECH-2343,Gamal Rizk,Appliance Repair,Port Said,19,4,272,360,Available,402
+TECH-4346,Tamer Abdel-Aziz,Appliance Repair,Aswan,8,3.9,64,230,Busy,241
+TECH-5915,Ismail Refaat,Air Conditioning,Sohag,3,3.1,17,310,Available,115
+TECH-2638,Khaled Samir,Painting,Mansoura,17,4.7,67,820,Available,642
+TECH-2127,Bassem Fouad,Air Conditioning,Tanta,6,3.2,95,830,Available,98
+TECH-5956,Ramadan Awad,Appliance Repair,Ismailia,1,2.1,14,430,Available,39
+TECH-2697,Hossam El-Din,Air Conditioning,Giza,4,3,54,1190,Busy,99
+TECH-5616,Ashraf Nasr,Electrical,Faiyum,11,3.7,148,360,Available,267
+TECH-5325,Farouk Zidan,Carpentry,Tanta,2,3.4,28,340,Available,34
+TECH-5533,Mahmoud Ibrahim,Plumbing,Aswan,5,3.3,35,560,Busy,234
+TECH-8239,Karim Donia,Appliance Repair,Luxor,18,4.8,142,100,Busy,890
+TECH-3442,Anwar Elias,Plumbing,Asyut,12,3.9,193,530,Busy,761
+TECH-3088,Mahmoud Ibrahim,Air Conditioning,Aswan,2,2.6,16,1380,Busy,43
+TECH-5088,Tamer Abdel-Aziz,Plumbing,Aswan,18,4,209,720,Available,722
+TECH-3532,Bassem Fouad,Electrical,Minya,6,3.2,96,910,Busy,211
+TECH-6442,Gamal Rizk,Appliance Repair,Asyut,8,3.9,85,230,Available,606
+TECH-2771,Hisham Bahgat,Plumbing,Asyut,16,4.4,123,290,Available,302
+TECH-8541,George Naguib,Air Conditioning,Asyut,8,3.5,87,570,Available,365
+TECH-7528,Mina Adel,Air Conditioning,Asyut,3,3,34,1460,Available,66
+TECH-9346,Adel Mansour,Appliance Repair,Asyut,18,3.7,175,270,Busy,861
+TECH-5279,Essam Kamal,Painting,Tanta,2,2.8,11,570,Available,75
+TECH-6139,Magdy Amin,Painting,Ismailia,4,3.1,30,1020,Available,149
+TECH-5173,Mahmoud Ibrahim,Appliance Repair,Luxor,1,2.6,6,360,Available,40
+TECH-4228,Samy Wahba,Carpentry,Giza,11,3.8,191,840,Available,558
+TECH-3041,Hesham El-Masry,Air Conditioning,Ismailia,10,2.9,73,1100,Busy,427
+TECH-5844,Karim Donia,Electrical,Mansoura,14,4.1,204,730,Busy,1000
+TECH-3851,Ramadan Awad,Painting,Tanta,13,4,229,1280,Busy,641
+TECH-5700,Wael Hamdy,Carpentry,Minya,19,4.7,198,830,Busy,881
+TECH-8238,Nabil Shawky,Appliance Repair,Mansoura,17,3.9,183,340,Available,471
+TECH-3780,Tamer Abdel-Aziz,Plumbing,Tanta,17,4.2,400,580,Available,118
+TECH-2530,Mahmoud Saber,Electrical,Suez,10,3.8,39,380,Busy,279
+TECH-1400,Mahmoud Ibrahim,Electrical,Zagazig,20,4.9,246,880,Busy,376
+TECH-7790,Salah El-Hadad,Painting,Mansoura,13,3.5,200,1190,Busy,312
+TECH-1090,Mahmoud Saber,Plumbing,Minya,14,4,171,290,Available,353
+TECH-9486,Ismail Refaat,Plumbing,Ismailia,8,4.2,121,750,Busy,36
+TECH-3184,Ismail Refaat,Appliance Repair,Ismailia,18,4.4,156,400,Available,860
+TECH-8251,Ramadan Awad,Appliance Repair,Sohag,17,3.9,194,310,Available,723
+TECH-8305,Walid Ramzy,Appliance Repair,Asyut,16,4.4,95,330,Available,479
+TECH-5543,Fathi El-Sharif,Painting,Zagazig,8,3.1,69,840,Busy,491
+TECH-5681,Bassem Fouad,Air Conditioning,Aswan,11,3.8,62,1370,Busy,536
+TECH-3471,Ramy Tawfik,Carpentry,Faiyum,5,3.8,85,920,Busy,61
+TECH-7678,Mina Adel,Painting,Zagazig,14,3.7,256,500,Available,341
+TECH-7381,Fathi El-Sharif,Painting,Faiyum,1,2.8,15,1770,Available,21
+TECH-7232,Hassan Morsy,Plumbing,Aswan,10,3.5,0,640,Available,196
+TECH-7865,Anwar Elias,Appliance Repair,Faiyum,18,4.2,103,500,Available,1000
+TECH-8999,Ramy Tawfik,Air Conditioning,Luxor,16,3.5,156,330,Busy,591
+TECH-7624,Hesham El-Masry,Electrical,Asyut,15,4.6,72,940,Available,786
+TECH-9751,Mohamed Ali,Carpentry,Port Said,19,4.4,134,880,Busy,796
+TECH-8022,Hossam El-Din,Carpentry,Alexandria,2,2.8,17,500,Available,72
+TECH-8449,Fady Girgis,Air Conditioning,Minya,13,3.6,163,630,Available,584
+TECH-7906,Hany Soliman,Plumbing,Zagazig,1,3.2,5,640,Busy,66
+TECH-6733,Ramy Tawfik,Appliance Repair,Giza,2,1.9,22,480,Available,87
+TECH-4266,Mohamed Ali,Painting,Alexandria,8,3.4,71,600,Available,255
+TECH-4571,Ismail Refaat,Appliance Repair,Tanta,12,3.5,108,180,Available,572
+TECH-2876,Fathi El-Sharif,Electrical,Tanta,4,3,34,660,Available,193
+TECH-7149,Adel Mansour,Appliance Repair,Mansoura,3,2.9,48,400,Available,133
+TECH-4978,Amr Fathy,Appliance Repair,Minya,10,3.2,91,530,Available,462
+TECH-2983,Yassin Hafez,Plumbing,Aswan,18,4.5,214,430,Busy,661
+TECH-9289,Mustafa Qassem,Air Conditioning,Cairo,14,4.4,126,1290,Busy,604
+TECH-6934,Salah El-Hadad,Carpentry,Faiyum,5,2.9,54,660,Available,257
+TECH-5425,Ramadan Awad,Painting,Minya,16,4.4,257,1140,Available,873
+TECH-5397,Fady Girgis,Electrical,Asyut,3,2.8,46,420,Available,91
+TECH-8613,Yassin Hafez,Painting,Suez,13,3.9,147,940,Available,473
+TECH-6325,Essam Kamal,Carpentry,Mansoura,12,3.9,94,1010,Busy,796
+TECH-5526,Karim Donia,Plumbing,Ismailia,7,2.8,41,210,Available,366
+TECH-9004,Karim Donia,Electrical,Faiyum,16,4.4,241,720,Available,710
+TECH-1282,Youssef Nasser,Air Conditioning,Mansoura,13,3.8,97,1130,Busy,469
+TECH-7046,Hassan Morsy,Painting,Ismailia,12,3.4,202,1080,Available,393
+TECH-6419,George Naguib,Appliance Repair,Zagazig,9,3.1,93,250,Busy,370
+TECH-4155,Fady Girgis,Plumbing,Faiyum,18,4.1,142,770,Available,695
+TECH-4138,Wael Hamdy,Appliance Repair,Zagazig,9,3.5,85,460,Available,251
+TECH-9595,Ashraf Nasr,Air Conditioning,Giza,7,3.3,33,660,Available,97
+TECH-5952,Ahmed Hassan,Appliance Repair,Ismailia,5,2.7,54,240,Available,198
+TECH-5786,Alaa El-Sayed,Electrical,Suez,16,4.7,260,280,Busy,521
+TECH-5658,Hassan Morsy,Carpentry,Zagazig,11,3.6,76,430,Busy,381
+TECH-8827,Tarek Mostafa,Plumbing,Luxor,16,4,217,200,Available,361
+TECH-1878,Sherif Adel,Electrical,Minya,19,4.6,373,960,Busy,634
+TECH-5066,Tarek Mostafa,Painting,Minya,14,4.1,216,1370,Available,405
+TECH-4697,Fathi El-Sharif,Painting,Luxor,15,4.1,180,1850,Busy,546
+TECH-8025,Samir Zaki,Painting,Port Said,2,2.4,24,1380,Available,84
+TECH-4404,Salah El-Hadad,Electrical,Tanta,3,3.4,50,330,Busy,201
+TECH-2229,Walid Ramzy,Plumbing,Luxor,15,3.7,245,600,Available,566
+TECH-1534,Ramy Tawfik,Air Conditioning,Faiyum,10,4.4,79,1140,Available,224
+TECH-4824,Hany Soliman,Appliance Repair,Port Said,7,3,9,310,Available,189
+TECH-3441,Ayman Lotfy,Electrical,Giza,2,2.4,25,330,Available,80
+TECH-5728,Nabil Shawky,Plumbing,Zagazig,10,4.3,167,600,Available,263
+TECH-9199,Anwar Elias,Carpentry,Zagazig,3,2.4,43,820,Available,45
+TECH-6280,Ashraf Nasr,Air Conditioning,Cairo,3,3.5,53,570,Available,83
+TECH-1339,Mahmoud Saber,Appliance Repair,Asyut,9,2.7,168,390,Available,299
+TECH-3870,Hassan Morsy,Painting,Suez,15,4.5,60,1870,Busy,390
+TECH-8141,Salah El-Hadad,Carpentry,Giza,16,4.1,195,580,Busy,451
+TECH-2713,Walid Ramzy,Air Conditioning,Luxor,16,4.3,106,650,Available,525
+TECH-1601,Ismail Refaat,Plumbing,Aswan,9,3.4,131,360,Available,411
+TECH-7622,Farouk Zidan,Plumbing,Suez,18,3.9,77,450,Busy,974
+TECH-9494,Samy Wahba,Painting,Minya,16,4.2,132,1400,Available,932
+TECH-4335,Ayman Lotfy,Painting,Alexandria,10,3.5,178,1100,Available,360
+TECH-2989,Mohamed Ali,Appliance Repair,Port Said,8,4.1,166,450,Available,250
+TECH-1224,Karim Donia,Carpentry,Giza,8,3.7,121,1190,Available,444
+TECH-8560,Tarek Mostafa,Appliance Repair,Asyut,5,2.6,77,350,Available,254
+TECH-9337,Ibrahim Yehia,Air Conditioning,Luxor,16,3.4,97,1480,Busy,70
+TECH-3369,Hisham Bahgat,Electrical,Sohag,20,4.4,311,610,Available,1000
+TECH-2143,Ayman Lotfy,Carpentry,Aswan,17,4.2,342,500,Busy,243
+TECH-5891,Hazem Baraka,Painting,Suez,16,3.4,187,1780,Available,652
+TECH-8935,George Naguib,Air Conditioning,Ismailia,18,4.3,29,750,Available,605
+TECH-4090,Alaa El-Sayed,Electrical,Port Said,13,3.3,199,390,Available,526
+TECH-1715,Fady Girgis,Appliance Repair,Zagazig,13,3.4,122,290,Available,248
+TECH-3492,Atef Abdallah,Plumbing,Alexandria,17,4.2,285,780,Available,343
+TECH-2644,Nabil Shawky,Plumbing,Ismailia,15,4.2,140,160,Busy,346
+TECH-3529,Khaled Samir,Carpentry,Minya,9,3.4,61,570,Available,240
+TECH-2315,Mina Adel,Appliance Repair,Asyut,18,3.8,392,290,Busy,639
+TECH-8994,Anwar Elias,Plumbing,Port Said,3,2.5,39,300,Available,99
+TECH-5708,Ramy Tawfik,Appliance Repair,Giza,14,3.8,210,590,Available,649
+TECH-2646,Nabil Shawky,Electrical,Faiyum,10,3.3,91,920,Busy,308
+TECH-1919,Emad Ragab,Air Conditioning,Aswan,14,3,61,470,Available,777
+TECH-3950,Walid Ramzy,Electrical,Giza,20,5,215,900,Available,872
+TECH-4945,Atef Abdallah,Painting,Alexandria,8,3.4,219,1140,Busy,414
+TECH-5183,Tamer Abdel-Aziz,Plumbing,Sohag,15,3.9,108,740,Available,163
+TECH-3588,Khaled Samir,Carpentry,Aswan,19,4.5,156,530,Available,259
+TECH-5097,Ismail Refaat,Air Conditioning,Mansoura,13,3.5,85,1320,Busy,783
+TECH-7248,Yassin Hafez,Air Conditioning,Port Said,10,3.9,119,1490,Busy,571
+TECH-7484,Ayman Lotfy,Plumbing,Port Said,2,2.7,15,740,Available,115
+TECH-5689,Fathi El-Sharif,Electrical,Port Said,12,3.9,81,380,Busy,385
+TECH-5106,Osama Helmy,Appliance Repair,Minya,5,2.6,25,410,Available,244
+TECH-1645,Samir Zaki,Carpentry,Cairo,19,5,95,600,Busy,825
+TECH-5835,Fady Girgis,Appliance Repair,Luxor,6,2.8,57,200,Available,156
+TECH-6994,Sobhy Osman,Painting,Sohag,9,3.1,110,1730,Busy,202
+TECH-8894,Emad Ragab,Appliance Repair,Asyut,11,3.7,129,500,Available,345
+TECH-2233,Sherif Adel,Electrical,Asyut,13,3.4,118,970,Available,602
+TECH-6992,Youssef Nasser,Carpentry,Cairo,9,3.6,64,760,Available,328
+TECH-5295,Hazem Baraka,Carpentry,Asyut,12,4,43,350,Busy,517
+TECH-1410,Ramadan Awad,Painting,Aswan,20,4.2,297,750,Busy,471
+TECH-8606,Alaa El-Sayed,Air Conditioning,Suez,14,3.2,54,440,Busy,500
+TECH-1609,Samir Zaki,Carpentry,Giza,4,3,29,470,Available,178
+TECH-7367,Ismail Refaat,Air Conditioning,Suez,18,3.6,210,800,Available,303
+TECH-3531,Gamal Rizk,Appliance Repair,Giza,16,3.8,195,410,Available,353
+TECH-5583,Mahmoud Ibrahim,Appliance Repair,Aswan,7,3,119,320,Available,184
+TECH-6942,Amr Fathy,Appliance Repair,Aswan,18,4.6,114,550,Available,773
+TECH-1992,Adel Mansour,Air Conditioning,Mansoura,4,3.5,0,1440,Available,92
+TECH-2501,Tamer Abdel-Aziz,Electrical,Suez,20,4.7,219,980,Busy,811
+TECH-6464,Bassem Fouad,Electrical,Minya,19,4.2,236,360,Available,620
+TECH-4394,Hazem Baraka,Electrical,Asyut,8,3.8,106,460,Busy,320
+TECH-1046,Ayman Lotfy,Electrical,Alexandria,18,4.1,172,400,Busy,513
+TECH-1422,Hossam El-Din,Plumbing,Aswan,8,3.5,79,530,Busy,314
+TECH-5347,Omar Khalil,Electrical,Faiyum,14,4.7,228,620,Available,421
+TECH-8802,Nabil Shawky,Air Conditioning,Ismailia,19,4.9,189,430,Available,84
+TECH-1710,Hesham El-Masry,Appliance Repair,Ismailia,10,3.1,26,330,Available,297
+TECH-1996,Hassan Morsy,Carpentry,Luxor,4,2.9,81,720,Available,159
+TECH-2204,Youssef Nasser,Air Conditioning,Port Said,5,2.9,80,380,Available,9
+TECH-9984,Ibrahim Yehia,Air Conditioning,Luxor,20,4.6,317,940,Available,256
+TECH-8048,Amr Fathy,Appliance Repair,Giza,18,4.8,246,460,Busy,517
+TECH-8398,Ramy Tawfik,Carpentry,Aswan,15,4.3,350,630,Available,565
+TECH-6120,Magdy Amin,Air Conditioning,Suez,9,3.5,87,750,Busy,200
+TECH-8770,Khaled Samir,Plumbing,Asyut,3,3.1,23,210,Busy,108
+TECH-7105,Hossam El-Din,Painting,Cairo,19,4.2,273,1930,Available,760
+TECH-3002,Gamal Rizk,Air Conditioning,Asyut,14,4.3,132,1340,Available,433
+TECH-5712,Ashraf Nasr,Air Conditioning,Aswan,4,2.5,39,990,Busy,162
+TECH-8900,Ramy Tawfik,Plumbing,Aswan,18,4.6,133,390,Available,864
+TECH-4705,Magdy Amin,Painting,Minya,20,5,281,1380,Available,1000
+TECH-1430,Ashraf Nasr,Appliance Repair,Asyut,9,3.1,51,110,Available,74
+TECH-6062,Mina Adel,Air Conditioning,Cairo,6,3.7,91,1340,Available,204
+TECH-7566,Khaled Samir,Electrical,Faiyum,1,2.7,6,270,Available,71
+TECH-7163,Gamal Rizk,Carpentry,Aswan,6,3.2,75,600,Available,275
+TECH-2391,Omar Khalil,Electrical,Alexandria,20,4.7,262,240,Busy,462
+TECH-8259,Tamer Abdel-Aziz,Carpentry,Zagazig,20,4.7,428,670,Busy,1000
+TECH-9394,Tarek Mostafa,Air Conditioning,Luxor,4,3.5,37,640,Available,80
+TECH-8972,Sobhy Osman,Appliance Repair,Tanta,2,2.6,24,210,Available,102
+TECH-1897,Ahmed Hassan,Electrical,Tanta,7,2.5,137,810,Available,228
+TECH-5742,Fady Girgis,Plumbing,Cairo,16,3.9,111,640,Busy,162
+TECH-7229,Anwar Elias,Appliance Repair,Mansoura,17,4.5,210,380,Available,266
+TECH-6802,Khaled Samir,Carpentry,Asyut,2,2.2,20,660,Available,120
+TECH-2275,Fady Girgis,Painting,Luxor,19,4.3,85,1050,Available,594
+TECH-5743,Tarek Mostafa,Carpentry,Cairo,11,3.5,0,410,Available,376
+TECH-8538,Alaa El-Sayed,Air Conditioning,Giza,14,3.8,216,1310,Busy,878
+TECH-7560,Sobhy Osman,Plumbing,Luxor,10,4,106,630,Busy,184
+TECH-3754,Khaled Samir,Painting,Suez,4,3.9,49,1250,Busy,140
+TECH-6724,George Naguib,Appliance Repair,Asyut,5,3,64,220,Busy,164
+TECH-4232,Essam Kamal,Painting,Alexandria,3,2.6,27,680,Available,103
+TECH-9095,Ismail Refaat,Painting,Minya,19,4.2,160,1120,Available,695
+TECH-6295,Salah El-Hadad,Air Conditioning,Alexandria,15,3.9,292,380,Available,0
+TECH-5961,Ayman Lotfy,Painting,Cairo,12,4.1,218,1210,Available,46
+TECH-8404,Mahmoud Ibrahim,Plumbing,Aswan,10,3.4,101,200,Available,138
+TECH-2479,Ramadan Awad,Painting,Ismailia,13,3.5,83,1140,Available,796
+TECH-1672,Nabil Shawky,Painting,Suez,7,3.6,128,910,Available,320
+TECH-2013,Nabil Shawky,Plumbing,Minya,11,3.1,103,790,Busy,465
+TECH-3827,Mahmoud Ibrahim,Electrical,Faiyum,15,3.5,233,990,Available,470
+TECH-3600,Samy Wahba,Air Conditioning,Sohag,10,3.4,155,760,Available,416
+TECH-1857,Salah El-Hadad,Appliance Repair,Aswan,3,2.7,53,260,Available,56
+TECH-7333,Emad Ragab,Air Conditioning,Faiyum,20,4.7,299,1350,Busy,607
+TECH-3317,George Naguib,Air Conditioning,Suez,13,3.9,74,450,Available,635
+TECH-2388,Samir Zaki,Painting,Luxor,11,3.5,103,1700,Available,558
+TECH-9624,Youssef Nasser,Appliance Repair,Suez,14,3.6,69,350,Busy,163
+TECH-6060,Essam Kamal,Electrical,Aswan,16,4.3,89,350,Available,981
+TECH-3538,Khaled Samir,Air Conditioning,Asyut,4,2.1,81,910,Available,152
+TECH-9626,Mahmoud Ibrahim,Appliance Repair,Aswan,20,4.5,185,170,Busy,819
+TECH-3658,Essam Kamal,Appliance Repair,Minya,20,4.5,350,500,Busy,734
+TECH-8170,Mahmoud Ibrahim,Carpentry,Aswan,8,3.4,81,1170,Available,273
+TECH-8355,Ramy Tawfik,Painting,Mansoura,10,3.6,34,1940,Available,147
+TECH-4178,Samy Wahba,Appliance Repair,Port Said,15,4.3,192,330,Busy,483
+TECH-7256,Farouk Zidan,Painting,Luxor,6,3.1,82,1710,Available,161
+TECH-3267,Hany Soliman,Plumbing,Suez,16,3.8,207,720,Available,325
+TECH-2680,Ibrahim Yehia,Painting,Asyut,4,3.1,13,860,Available,201
+TECH-5469,Nabil Shawky,Painting,Alexandria,14,4.1,185,550,Available,696
+TECH-8391,George Naguib,Plumbing,Luxor,2,3.4,34,410,Available,14
+TECH-7326,Youssef Nasser,Air Conditioning,Mansoura,1,2.1,8,680,Busy,35
+TECH-6493,Sherif Adel,Electrical,Cairo,10,3.7,83,930,Available,378
+TECH-3273,Mahmoud Saber,Appliance Repair,Zagazig,15,3.7,134,410,Available,208
